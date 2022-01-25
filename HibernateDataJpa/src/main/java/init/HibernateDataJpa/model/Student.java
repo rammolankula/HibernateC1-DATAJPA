@@ -22,6 +22,6 @@ public class Student {
 	@Lob  //Here byte means BLOG for usage  storing Images,pdfs,documents,files
 	private byte[] stdImg;
 	
-	@Lob  //Here byte means BLOG for usage  storing Images,pdfs,documents,files
+	@Lob  //Here char means BLOG for usage  storing pdfs,documents,files
 	private char[] stdResume;
 }
